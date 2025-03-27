@@ -1,19 +1,14 @@
 {
 	"id": 114318525,
-	"name": "Crystallized",
+	"name": "EggStep",
 	"creators": [
-		"EmeraldOre45",
-		"Xeronius",
-		"Popples",
-		"sans_hanitizer",
-		"Raezori",
-		"chinciekn"
+		"Merwa"
 	],
-	"verifier": "Popples",
+	"verifier": "Mike20bp",
 	"verification": "https://www.youtube.com/watch?v=NaL6Ne9bXn0",
 	"percentToQualify": 55,
 	"password": "Free to copy",
-	"difficulty": 5,
+	"difficulty": 6,
 	"song": "Camellia - Crystallized",
 	"enjoyment": 9,
 	"records": []

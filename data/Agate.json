@@ -1,18 +1,18 @@
 {
   "id": 96605635,
-  "name": "Annie Am I Late",
+  "name": "Agate",
   "creators": [
-	"Iza"
+	"sxLise"
   ],
-  "verifier": "Rastuyas",
+  "verifier": "sxLise",
   "verification": "https://www.youtube.com/watch?v=bP5pP8fmMTM&ab_channel=rastuyas",
-  "percentToQualify": 56,
+  "percentToQualify": 100,
   "password": "423578",
   "song": "Cuizo - Annihilate (MD2021)",
-  "difficulty": 5,
+  "difficulty": 7,
   "records": [
 	{
-	  "user": "Riley",
+	  "user": "Terrority",
 	  "link": "https://www.youtube.com/watch?v=dO4QLRimQAY",
 	  "percent": 100,
 	  "hz": 360,
