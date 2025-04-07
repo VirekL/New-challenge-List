@@ -3,7 +3,7 @@ export default {
         <h3>Record Submission Requirements</h3>
         <div class="right-text">
             <p>
-                You must have achieved the record without using hacks (including hacks that change the physics of the game, ie. physics bypass via MegaHack, however, "Click Between Frames" is allowed).
+                Vous devez avoir compléter le record sans utiliser de hacks (y compris les hacks qui changent la physique du jeu, ie. physics bypass via MegaHack, par contre, "Click Between Frames" est autorisé). / You must have achieved the record without using hacks (including hacks that change the physics of the game, ie. physics bypass via MegaHack, however, "Click Between Frames" is allowed).
             </p>
             <p>
                 You must have achieved the record on the level that is listed on the site or on an approved bugfixed copy - please check the level ID before you submit a record!
