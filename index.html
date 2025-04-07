@@ -3,10 +3,10 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=1024" />
-        <meta property="og:title" content="The Layout List" />
-        <meta property="og:description" content="A list of community-submitted layouts ranked by difficulty and tier" />
+        <meta property="og:title" content="FranceGDPS Demonlist" />
+        <meta property="og:description" content="La demonlist officielle de francegdps qui classe tout les niveaux du gdps" />
         <meta property="og:image" content="/assets/laylist.png" />
-        <title>The Layout List</title>
+        <title>FranceGDPS Demonlist</title>
         <link rel="icon" href="/assets/laylist.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -44,7 +44,7 @@
                     <span class="type-label-lg">List</span>
                 </router-link>
                 <router-link class="nav__tab" to="/leaderboard">
-                    <span class="type-label-lg">Leaderboard</span>
+                    <span class="type-label-lg">Classement</span>
                 </router-link>
                 <router-link class="nav__tab" to="/roulette">
                     <span class="type-label-lg">Roulette</span>
@@ -53,7 +53,7 @@
                     <span class="type-label-lg">Packs</span>
                 </router-link>
                 <router-link class="nav__tab" to="/grind">
-                    <span class="type-label-lg">Grind</span>
+                    <span class="type-label-lg">Grind (ça sert à rien)</span>
                 </router-link>
                 <div class="nav__actions" v-if="store.list && store.loaded">
                      <div class="color-picker-wrapper nav__icon">
@@ -67,13 +67,13 @@
                         class="nav__cta type-label-lg"
                         href="https://forms.gle/kmesxiUQUEWC5ZuW9"
                         target="_blank"
-                        >Submit Record</a
+                        >Envoyer des records</a
                     >
                 </div>
             </nav>
         </header>
         <main :class="{ dark: store.dark }" v-if="!store.list || !store.loaded">
-            <p class="spinner">Loading...</p>
+            <p class="spinner">En train de charger...</p>
         </main>
         <router-view v-else :class="{ dark: store.dark }"></router-view>
     </body>
