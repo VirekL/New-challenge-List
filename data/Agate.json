@@ -1,15 +1,15 @@
 {
   "id": 96605635,
-  "name": "Agate",
+  "name": "Wrap",
   "creators": [
-	"solise"
+	"Novek193"
   ],
-  "verifier": "solise",
+  "verifier": "Stompy",
   "verification": "https://www.youtube.com/watch?v=bP5pP8fmMTM&ab_channel=rastuyas",
   "percentToQualify": 100,
   "password": "423578",
   "song": "Cuizo - Annihilate (MD2021)",
-  "difficulty": 7,
+  "difficulty": 8,
   "records": [
   ]
 }
